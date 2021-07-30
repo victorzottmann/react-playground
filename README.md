@@ -1,3 +1,3 @@
 # React Playground
 
-[Link to deployed app](https://react-playground-victorzottmann.vercel.app)
+Link to deployed app: https://react-playground-victorzottmann.vercel.app
